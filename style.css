@@ -1,0 +1,63 @@
+.blog {
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.blog1 p {
+  background-color: rgb(12, 153, 158);
+  border: 1px solid rgb(109, 156, 109);
+  border-radius: 15px 50px;
+  padding: 20px;
+  width: 300px;
+  margin: 10px 20px 10px 10px;
+  margin-left: 200px;
+}
+
+.cox {
+  width: 300px;
+  border: 1px solid whitesmoke;
+  padding: 1px;
+  margin: 10px 20px;
+  margin-left: 600px;
+  border-radius: 50%;
+}
+
+.blog2 p {
+  background-color: rgb(12, 158, 56);
+  border: 1px solid rgb(109, 156, 109);
+  border-radius: 15px 50px;
+  padding: 20px;
+  width: 300px;
+  margin: 10px 20px;
+  margin-left: 200px;
+}
+
+.cox {
+  width: 300px;
+  margin: 10px 20px;
+  margin-left: 600px;
+}
+.blog3 p {
+  background-color: rgb(206, 162, 79);
+  border: 1px solid rgb(156, 141, 109);
+  border-radius: 15px 50px;
+  padding: 20px;
+  width: 300px;
+  margin: 10px 20px;
+  margin-left: 200px;
+}
+
+.cox {
+  width: 300px;
+  margin: 10px 20px;
+  margin-left: 600px;
+}
+.blog-cox {
+  font-size: medium;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: rebeccapurple;
+  margin-left: 20px;
+}
